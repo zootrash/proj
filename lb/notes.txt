@@ -1,0 +1,7 @@
+## LB ##
+
+$ UPDATES
+
+$ CURR
+ - fixing plugin: coming soon page. the warning says it will be
+	 depracted soon.
