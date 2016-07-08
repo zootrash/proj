@@ -1,7 +1,9 @@
 ## LB ##
 
 $ UPDATES
-
+	- fixed plugin coming soon page. Warning was that it was going
+		to be removed from the wordpress libraries soon.
+	-
+	
 $ CURR
- - fixing plugin: coming soon page. the warning says it will be
-	 depracted soon.
+	- 
