@@ -1,9 +1,11 @@
 ## LB ##
 
-$ UPDATES
+$ UPDATES [July 8, 2016]
 	- fixed plugin coming soon page. Warning was that it was going
 		to be removed from the wordpress libraries soon.
 	-
 	
 $ CURR
+	- messing with child themes. using the "separate stylesheet"
+		option to keep a separate config file for baseline and child.
 	- 
