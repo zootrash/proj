@@ -1,9 +1,16 @@
 ## LB ##
 
+$ UPDATES [July 21, 2016]
+	- Apperance/Child Theme seems to be missing current. 
+		-> Tools/ParentChild Analyzed again to fix.
+	- mshot missing now
+	- Editing Coming Soon Page
+		-> Header Scripts - CSS 
+	? Install wordpress?
+
 $ UPDATES [July 8, 2016]
 	- fixed plugin coming soon page. Warning was that it was going
 		to be removed from the wordpress libraries soon.
-	-
 	
 $ CURR
 	- messing with child themes. using the "separate stylesheet"
